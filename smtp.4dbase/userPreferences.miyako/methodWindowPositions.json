@@ -1,0 +1,176 @@
+﻿{
+	"Trash/Methods/(TEST).4dm": {
+		"left": 530,
+		"top": 291,
+		"width": 1047,
+		"height": 947
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/show-user-backup-settings.4dm": {
+		"left": 302,
+		"top": 305,
+		"width": 1047,
+		"height": 921
+	},
+	"Sources/Forms/backup_admin/method.4dm": {
+		"left": 302,
+		"top": 305,
+		"width": 1047,
+		"height": 921
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/open-settings-window.4dm": {
+		"left": 442,
+		"top": 168,
+		"width": 1047,
+		"height": 895
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/setup1.4dm": {
+		"left": 302,
+		"top": 305,
+		"width": 1047,
+		"height": 921
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/open-settings-window1.4dm": {
+		"left": 302,
+		"top": 305,
+		"width": 1047,
+		"height": 921
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/setup.4dm": {
+		"left": 302,
+		"top": 305,
+		"width": 1047,
+		"height": 921
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/show-backup-destination.4dm": {
+		"left": 442,
+		"top": 142,
+		"width": 1047,
+		"height": 921
+	},
+	"Sources/Methods/smtp_p.4dm": {
+		"left": 91,
+		"top": 298,
+		"width": 936,
+		"height": 680
+	},
+	"Sources/Methods/send_mail.4dm": {
+		"left": 400,
+		"top": 129,
+		"width": 1047,
+		"height": 771
+	},
+	"Trash/Methods/(check_backup_settings).4dm": {
+		"left": 315,
+		"top": 208,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(check_mobile_documents_s).4dm": {
+		"left": 302,
+		"top": 305,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(check_user_settings).4dm": {
+		"left": 315,
+		"top": 208,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(compiler_methods).4dm": {
+		"left": 302,
+		"top": 305,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(compiler_variables).4dm": {
+		"left": 530,
+		"top": 291,
+		"width": 1047,
+		"height": 947
+	},
+	"Trash/Methods/(get_backup_settings).4dm": {
+		"left": 290,
+		"top": 129,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(get_backup_settings_p).4dm": {
+		"left": 302,
+		"top": 305,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(test_settings).4dm": {
+		"left": 290,
+		"top": 129,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(on_update_backup_admin_ui).4dm": {
+		"left": 442,
+		"top": 168,
+		"width": 1047,
+		"height": 895
+	},
+	"Trash/Methods/(on_after_backup).4dm": {
+		"left": 530,
+		"top": 291,
+		"width": 1047,
+		"height": 947
+	},
+	"Trash/Methods/(get_data_path_s).4dm": {
+		"left": 278,
+		"top": 242,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(get_database_paths_s).4dm": {
+		"left": 290,
+		"top": 129,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(get_default_journal_path).4dm": {
+		"left": 315,
+		"top": 208,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(get_journal_path).4dm": {
+		"left": 315,
+		"top": 208,
+		"width": 1047,
+		"height": 921
+	},
+	"Trash/Methods/(new backup info).4dm": {
+		"left": 315,
+		"top": 208,
+		"width": 1047,
+		"height": 921
+	},
+	"Sources/Methods/TEST.4dm": {
+		"left": 91,
+		"top": 298,
+		"width": 936,
+		"height": 680
+	},
+	"Sources/Methods/MySmtpClass.4dm": {
+		"left": 492,
+		"top": 143,
+		"width": 936,
+		"height": 680
+	},
+	"Sources/Methods/is_formula.4dm": {
+		"left": 492,
+		"top": 143,
+		"width": 936,
+		"height": 680
+	},
+	"Sources/Methods/on_error.4dm": {
+		"left": 91,
+		"top": 298,
+		"width": 936,
+		"height": 680
+	}
+}

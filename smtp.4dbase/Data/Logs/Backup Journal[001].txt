@@ -1,0 +1,583 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/20 21:00
+Starting 2020/04/24 16:12
+Ending 2020/04/24 16:12
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/24 21:00
+Starting 2020/04/24 16:25
+Ending 2020/04/24 16:25
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0003].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/24 21:00
+Starting 2020/04/24 16:32
+Ending 2020/04/24 16:32
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0004].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0003].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/24 21:00
+Starting 2020/04/24 16:38
+Ending 2020/04/24 16:38
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0005].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0004].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/24 21:00
+Starting 2020/04/24 17:17
+Ending 2020/04/24 17:17
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0006].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0003].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0005].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/24 21:00
+Starting 2020/04/24 17:17
+Ending 2020/04/24 17:17
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0007].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0004].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0006].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0003].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/24 21:00
+Starting 2020/04/24 17:17
+Ending 2020/04/24 17:17
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0008].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0005].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0007].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0004].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/24 21:00
+Starting 2020/04/24 21:00
+Ending 2020/04/24 21:00
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0009].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0006].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0008].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0005].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/25 21:00
+Starting 2020/04/25 0:24
+Ending 2020/04/25 0:24
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0010].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0007].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0009].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0006].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/25 21:00
+Starting 2020/04/25 0:24
+Ending 2020/04/25 0:24
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0011].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0008].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0010].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0007].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/27 21:00
+Starting 2020/04/27 11:15
+Ending 2020/04/27 11:15
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0012].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0009].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0011].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0008].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/27 21:00
+Starting 2020/04/27 11:22
+Ending 2020/04/27 11:22
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0013].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0010].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0012].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0009].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/27 21:00
+Starting 2020/04/27 11:24
+Ending 2020/04/27 11:24
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0014].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0011].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0013].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0010].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/27 21:00
+Starting 2020/04/27 12:10
+Ending 2020/04/27 12:10
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0015].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0012].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0014].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0011].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/27 21:00
+Starting 2020/04/27 12:12
+Ending 2020/04/27 12:12
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0016].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0013].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0015].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0012].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/27 21:00
+Starting 2020/04/27 21:00
+Ending 2020/04/27 21:00
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/20 21:00
+Starting 2020/04/29 10:32
+Ending 2020/04/29 10:32
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:00
+Ending 2020/04/29 13:00
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0003].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:02
+Ending 2020/04/29 13:02
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0004].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0003].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/04/29 13:07
+Ending 2020/04/29 13:07
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0005].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0004].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/04/29 13:08
+Ending 2020/04/29 13:08
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0006].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0003].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0005].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/04/29 13:09
+Ending 2020/04/29 13:09
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0007].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0004].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0006].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0003].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/04/29 13:12
+Ending 2020/04/29 13:12
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0008].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0005].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0007].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0004].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/04/29 13:12
+Ending 2020/04/29 13:12
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0009].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0006].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0008].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0005].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/04/29 13:12
+Ending 2020/04/29 13:12
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0010].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0007].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0009].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0006].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/04/29 13:13
+Ending 2020/04/29 13:13
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0011].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0008].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0010].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0007].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:13
+Ending 2020/04/29 13:13
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0012].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0009].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0011].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0008].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:15
+Ending 2020/04/29 13:15
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0013].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0010].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0012].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0009].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:17
+Ending 2020/04/29 13:17
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0014].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0011].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0013].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0010].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:17
+Ending 2020/04/29 13:17
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0015].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0012].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0014].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0011].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/04/29 13:17
+Ending 2020/04/29 13:17
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0016].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0013].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0015].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0012].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:23
+Ending 2020/04/29 13:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0017].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0014].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0016].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0013].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:23
+Ending 2020/04/29 13:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0018].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0015].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0017].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0014].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:24
+Ending 2020/04/29 13:24
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0019].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0016].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0018].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0015].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 13:26
+Ending 2020/04/29 13:26
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0020].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0017].4BK
+Creating log backup : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0019].4BL
+Deleting old log backup(s) :
+	Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0016].4BL
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/04/29 21:00
+Starting 2020/04/29 18:29
+Ending 2020/04/29 18:29
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/05/29 17:08
+Ending 2020/05/29 17:08
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/06/15 14:37
+Ending 2020/06/15 14:37
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0002].4BK
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/06/17 8:49
+Ending 2020/06/17 8:49
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:miyako:Documents:miyako@github.com:4d-easy-backup-configure-example:HOST.4dbase:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 1/01/02 9:18
+Starting 2020/06/24 13:01
+Ending 2020/06/24 13:01
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:miyako:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 1/01/02 9:18
+Starting : 2020/08/01 12:07
+Ending : 2020/08/01 12:07
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Attachment(s): 
+	Macintosh HD:Users:shigeru:Library:Application Support:DGW Dev:DGW Dev for v18 Anniversary:Components:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/08/01 21:00
+Starting 2020/08/01 14:52
+Ending 2020/08/01 14:52
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:data[0001].4BK
+Creating log backup : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:data[0000].4BL
+Attachment(s): 
+	Macintosh HD:Users:shigeru:Documents:GitHub:private:dgw-backup-manager:backup_manager.4dbase:data.4DIndx [NOT FOUND]
+Scheduled 2020/06/24 21:00
+Starting 2020/08/01 18:53
+Ending 2020/08/01 18:53
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2020/08/01 22:39
+Ending : 2020/08/01 22:39
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:23
+Ending : 2021/01/10 10:23
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:26
+Ending : 2021/01/10 10:26
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:29
+Ending : 2021/01/10 10:29
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:32
+Ending : 2021/01/10 10:32
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:35
+Ending : 2021/01/10 10:35
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:38
+Ending : 2021/01/10 10:38
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:41
+Ending : 2021/01/10 10:41
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:44
+Ending : 2021/01/10 10:44
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:47
+Ending : 2021/01/10 10:47
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:50
+Ending : 2021/01/10 10:50
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 10:52
+Ending : 2021/01/10 10:52
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 11:00
+Ending : 2021/01/10 11:00
+
+*** Full Backup aborted
+Error reported : Destination folder can not be created : Macintosh HD:Users:shigeru:Library:Application Support:Doctor’s Good Will:backup:
+Scheduled : 2020/08/02 21:00
+Starting : 2021/01/10 11:00
+Ending : 2021/01/10 11:00
+

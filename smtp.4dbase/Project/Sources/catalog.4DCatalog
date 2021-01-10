@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="" uuid="46DC0F41492D40B49E22DBD30D1EDB8E" collation_locale="ja">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra __stringCompHash="icu:63.1.0, alternate=search" __keywordBuildingHash="mecab:0.996;sys.dic:102;"/>
+</base>

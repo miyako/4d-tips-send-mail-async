@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file datatype="x-STR#" original="undefined" product-version="v18" source-language="en-US" target-language="ja">
+        <header>
+            <note>backup manager</note>
+        </header>
+        <body>
+            <group id="1B3484C297F64D09BB4419DEFCFEC605">
+                <trans-unit resname="verify_object_unknown" id="1B3484C297F64D09BB4419DEFCFEC605.100">
+                    <target>情報なし</target>
+                </trans-unit>
+                <trans-unit resname="verify_object_record" id="1B3484C297F64D09BB4419DEFCFEC605.101">
+                    <target>レコード</target>
+                </trans-unit>
+                <trans-unit resname="verify_object_index" id="1B3484C297F64D09BB4419DEFCFEC605.102">
+                    <target>インデックス</target>
+                </trans-unit>
+                <trans-unit resname="verify_object_structure" id="1B3484C297F64D09BB4419DEFCFEC605.103">
+                    <target>データファイル構造</target>
+                </trans-unit>
+                <trans-unit resname="verify_object_data" id="1B3484C297F64D09BB4419DEFCFEC605.104">
+                    <target>データファイル</target>
+                </trans-unit>
+                <trans-unit resname="mobile_documents_exist_on_server" id="1B3484C297F64D09BB4419DEFCFEC605.105">
+                    <target>サーバー側のiCloudドライブが有効である</target>
+                </trans-unit>
+                <trans-unit resname="backup-settings" id="1B3484C297F64D09BB4419DEFCFEC605.106">
+                    <target>バックアップ設定</target>
+                </trans-unit>
+                <trans-unit resname="backup-settings-correct" id="1B3484C297F64D09BB4419DEFCFEC605.107">
+                    <target>データフォルダー内のバックアップ設定が有効である</target>
+                </trans-unit>
+                <trans-unit resname="user-settings-correct" id="1B3484C297F64D09BB4419DEFCFEC605.108">
+                    <target>データフォルダー内のユーザー設定が有効である</target>
+                </trans-unit>
+                <trans-unit resname="backup-now" id="1B3484C297F64D09BB4419DEFCFEC605.109">
+                    <target>バックアップ</target>
+                </trans-unit>
+                <trans-unit resname="backup-settings-exists" id="1B3484C297F64D09BB4419DEFCFEC605.110">
+                    <target>データフォルダー内にバックアップ設定が保存されている</target>
+                </trans-unit>
+                <trans-unit resname="reset-settings" id="1B3484C297F64D09BB4419DEFCFEC605.111">
+                    <target>初期設定</target>
+                </trans-unit>
+                <trans-unit resname="show" id="1B3484C297F64D09BB4419DEFCFEC605.112">
+                    <target>表示…</target>
+                </trans-unit>
+                <trans-unit resname="backup_destination_folder" id="1B3484C297F64D09BB4419DEFCFEC605.113">
+                    <target>サーバー側のバックアップ保存フォルダー</target>
+                </trans-unit>
+                <trans-unit resname="update_information" id="1B3484C297F64D09BB4419DEFCFEC605.114">
+                    <target>更新</target>
+                </trans-unit>
+                <trans-unit resname="Monthly" id="1B3484C297F64D09BB4419DEFCFEC605.115">
+                    <target>毎月</target>
+                </trans-unit>
+                <trans-unit resname="Weekly" id="1B3484C297F64D09BB4419DEFCFEC605.116">
+                    <target>毎週</target>
+                </trans-unit>
+                <trans-unit resname="Daily" id="1B3484C297F64D09BB4419DEFCFEC605.117">
+                    <target>毎日</target>
+                </trans-unit>
+                <trans-unit resname="Hourly" id="1B3484C297F64D09BB4419DEFCFEC605.118">
+                    <target>毎時</target>
+                </trans-unit>
+                <trans-unit resname="segment_size" id="1B3484C297F64D09BB4419DEFCFEC605.119">
+                    <target>セグメントサイズ</target>
+                </trans-unit>
+                <trans-unit resname="backup_frequency" id="1B3484C297F64D09BB4419DEFCFEC605.120">
+                    <target>バックアップ周期</target>
+                </trans-unit>
+                <trans-unit resname="yes" id="1B3484C297F64D09BB4419DEFCFEC605.121">
+                    <target>はい</target>
+                </trans-unit>
+                <trans-unit resname="no" id="1B3484C297F64D09BB4419DEFCFEC605.122">
+                    <target>いいえ</target>
+                </trans-unit>
+                <trans-unit resname="backup_destination" id="1B3484C297F64D09BB4419DEFCFEC605.123">
+                    <target>場所</target>
+                </trans-unit>
+                <trans-unit resname="backup_settings" id="1B3484C297F64D09BB4419DEFCFEC605.124">
+                    <target>バックアップ設定</target>
+                </trans-unit>
+                <trans-unit resname="last_backup_date" id="1B3484C297F64D09BB4419DEFCFEC605.125">
+                    <target>前回のバックアップ日時</target>
+                </trans-unit>
+                <trans-unit resname="next_backup_date" id="1B3484C297F64D09BB4419DEFCFEC605.126">
+                    <target>次回のバックアップ予定</target>
+                </trans-unit>
+                <trans-unit resname="last_backup_status" id="1B3484C297F64D09BB4419DEFCFEC605.127">
+                    <target>前回のバックアップ状況</target>
+                </trans-unit>
+                <trans-unit resname="last_backup_duration" id="1B3484C297F64D09BB4419DEFCFEC605.128">
+                    <target>前回のバックアップ所要時間（㎳）</target>
+                </trans-unit>
+                <trans-unit resname="data_file_not_locked" id="1B3484C297F64D09BB4419DEFCFEC605.129">
+                    <target>データファイルはロックされていない</target>
+                </trans-unit>
+                <trans-unit resname="data_structure_diff_location" id="1B3484C297F64D09BB4419DEFCFEC605.130">
+                    <target>データファイルとストラクチャファイルは別々のフォルダー</target>
+                </trans-unit>
+                <trans-unit resname="enable" id="1B3484C297F64D09BB4419DEFCFEC605.131">
+                    <target>再開する</target>
+                </trans-unit>
+                <trans-unit resname="disable" id="1B3484C297F64D09BB4419DEFCFEC605.132">
+                    <target>停止する</target>
+                </trans-unit>
+                <trans-unit resname="Never" id="1B3484C297F64D09BB4419DEFCFEC605.133">
+                    <target>しない</target>
+                </trans-unit>
+                <trans-unit resname="Configure" id="1B3484C297F64D09BB4419DEFCFEC605.134">
+                    <target>設定…</target>
+                </trans-unit>
+            </group>
+
+        </body>
+    </file>
+</xliff>

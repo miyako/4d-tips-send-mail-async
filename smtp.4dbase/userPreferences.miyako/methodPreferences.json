@@ -1,0 +1,119 @@
+﻿{
+	"Sources/Forms/backup_admin/ObjectMethods/show-user-backup-settings.4dm": {
+		"startSelection": 7,
+		"endSelection": 0,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-08-01T13:07:24.710Z"
+	},
+	"Sources/Forms/backup_admin/method.4dm": {
+		"startSelection": 46,
+		"endSelection": 0,
+		"firstSelectedLine": 37,
+		"lastSelectedLine": 37,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-08-02T05:01:31.600Z"
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/open-settings-window.4dm": {
+		"startSelection": 10,
+		"endSelection": 10,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-08-02T05:07:53.621Z"
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/setup1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-08-02T05:00:01.329Z"
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/open-settings-window1.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-08-02T05:00:48.426Z"
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/setup.4dm": {
+		"startSelection": 0,
+		"endSelection": 7,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 19,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-08-01T13:07:24.709Z"
+	},
+	"Sources/Forms/backup_admin/ObjectMethods/show-backup-destination.4dm": {
+		"startSelection": 69,
+		"endSelection": 69,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-08-02T05:09:13.946Z"
+	},
+	"Sources/Methods/smtp_p.4dm": {
+		"startSelection": 32,
+		"endSelection": 32,
+		"firstSelectedLine": 17,
+		"lastSelectedLine": 17,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-01-10T01:50:23.557Z"
+	},
+	"Sources/Methods/send_mail.4dm": {
+		"startSelection": 53,
+		"endSelection": 53,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-08-01T13:07:24.717Z"
+	},
+	"Sources/Methods/TEST.4dm": {
+		"startSelection": 45,
+		"endSelection": 0,
+		"firstSelectedLine": 17,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-01-10T01:50:53.312Z"
+	},
+	"Sources/Methods/MySmtpClass.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 17,
+		"lastSelectedLine": 17,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-01-10T01:41:46.988Z"
+	},
+	"Sources/Methods/is_formula.4dm": {
+		"startSelection": 14,
+		"endSelection": 14,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-01-10T01:39:35.461Z"
+	},
+	"Sources/Methods/on_error.4dm": {
+		"startSelection": 21,
+		"endSelection": 21,
+		"firstSelectedLine": 12,
+		"lastSelectedLine": 12,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-01-10T01:50:31.492Z"
+	}
+}

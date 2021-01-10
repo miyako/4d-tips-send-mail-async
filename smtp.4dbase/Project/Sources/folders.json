@@ -1,0 +1,25 @@
+﻿{
+	"4DC": {},
+	"dialog": {},
+	"error": {
+		"methods": [
+			"on_error"
+		]
+	},
+	"execute on server": {},
+	"map": {},
+	"private": {},
+	"private object": {},
+	"proxy": {
+		"methods": [
+			"send_mail"
+		]
+	},
+	"public": {},
+	"worker": {
+		"methods": [
+			"smtp_p"
+		]
+	},
+	"trash": {}
+}

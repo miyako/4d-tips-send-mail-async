@@ -1,0 +1,43 @@
+﻿{
+	"methods": {
+		"send_mail": {
+			"timeStamp": "2020-08-01T13:07:24.717Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"smtp_p": {
+			"timeStamp": "2021-01-10T01:50:23.557Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"TEST": {
+			"timeStamp": "2021-01-10T01:50:53.312Z"
+		},
+		"on_error": {
+			"timeStamp": "2021-01-10T01:50:31.492Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"MySmtpClass": {
+			"timeStamp": "2021-01-10T01:41:46.988Z",
+			"attributes": {
+				"invisible": true,
+				"shared": true,
+				"preemptive": "capable"
+			}
+		},
+		"is_formula": {
+			"timeStamp": "2021-01-10T01:39:35.461Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		}
+	}
+}

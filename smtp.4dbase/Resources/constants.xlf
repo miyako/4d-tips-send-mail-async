@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+    <header>
+        <note>backup_manager</note>
+    </header>
+    <group resname="themes">
+        <trans-unit id="1B3484C297F64D09BB4419DEFCFEC605" resname="1B3484C297F64D09BB4419DEFCFEC605" translate="no">
+            <source>VERIFY DATA FILE</source>
+        </trans-unit>
+    </group>
+    <group d4:groupName="1B3484C297F64D09BB4419DEFCFEC605" restype="x-4DK#">
+        <trans-unit d4:value="0:L" id="1B3484C297F64D09BB4419DEFCFEC605.100">
+            <source>verify_object_unknown</source>
+        </trans-unit>
+        <trans-unit d4:value="4:L" id="1B3484C297F64D09BB4419DEFCFEC605.101">
+            <source>verify_object_record</source>
+        </trans-unit>
+        <trans-unit d4:value="8:L" id="1B3484C297F64D09BB4419DEFCFEC605.102">
+            <source>verify_object_index</source>
+        </trans-unit>
+        <trans-unit d4:value="16:L" id="1B3484C297F64D09BB4419DEFCFEC605.103">
+            <source>verify_object_structure</source>
+        </trans-unit>
+        <trans-unit d4:value="1:L" id="1B3484C297F64D09BB4419DEFCFEC605.104">
+            <source>verify_event_message</source>
+        </trans-unit>
+        <trans-unit d4:value="3:L" id="1B3484C297F64D09BB4419DEFCFEC605.105">
+            <source>verify_event_error</source>
+        </trans-unit>
+        <trans-unit d4:value="4:L" id="1B3484C297F64D09BB4419DEFCFEC605.106">
+            <source>verify_event_complete</source>
+        </trans-unit>
+        <trans-unit d4:value="5:L" id="1B3484C297F64D09BB4419DEFCFEC605.107">
+            <source>verify_event_warning</source>
+        </trans-unit>
+    </group>
+</xliff>
